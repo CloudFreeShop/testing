@@ -280,7 +280,7 @@
 #endif
 #define MY_LANGUAGE	en_GB
 
-#define USER_TEMPLATE "{\"NAME\":\"CloudFree X10S\",\"GPIO\":[56,0,57,0,21,134,0,0,131,17,132,0,0],\"FLAG\":0,\"BASE\":45}"  // [Template] Set JSON template
+#define USER_TEMPLATE "{\"NAME\":\"CloudFree X10S\",\"GPIO\":[320,0,321,0,224,2720,0,0,2624,32,2656,0,0,0],\"FLAG\":0,\"BASE\":45}"
 #define MODULE USER_MODULE
 
 #endif
